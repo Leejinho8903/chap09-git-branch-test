@@ -8,8 +8,5 @@
 </head>
 <body>
 	<h1 align='center'>Git branch test 프로젝트입니다.</h1>
-	
-	
-	
 </body>
 </html>
